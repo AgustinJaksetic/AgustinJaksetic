@@ -10,15 +10,15 @@
 ## ⚡Sobre mi
 </br>
 
-- 🌱 Main: Java
-- 😄 Pais: Argentina
+- 🌱 Edad: 18/11/2002
+- 🐦‍⬛ Pais: Argentina
 - 📫 Como contactarme: agus.jaksetic@gmail.com
  <div align="left"> 
 <a href="https://www.instagram.com/agusspium/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/agustin-jaksetic-56907a24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-## Skills:
+## Skills 🥇:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@
   </a>
 </p>
  
-## Aprendiendo:
+## Aprendiendo ✍️:
 
 </br>
 

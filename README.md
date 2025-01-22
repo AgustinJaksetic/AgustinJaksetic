@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8842F7&center=true&repeat=false&width=435&lines=Mi+nombre+es+Agustin+Jaksetic" alt="Typing SVG" /></a>
 <sup>
-  <img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif"  width="16%" align="right" />
+  <img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif"  width="18%" align="right" />
 </sup>
 
  <p>- <i>Estudiando Ingeniería en Análisis de Sistemas Informáticos en la UBA.</i></p>
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,mysql,html,css,js,py,idea&perline=4" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,css,js,html,idea&perline=4" alt="My Skills" />
   </a>
 </p>
 

@@ -19,9 +19,9 @@
   
 ## Skills 🥇:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,css,js,html,idea&perline=4" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,css,html,git,mysql,idea" alt="My Skills" />
   </a>
 </p>
  
@@ -29,7 +29,7 @@
 
 </br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,docker,ts,dotnet" />
   </a>

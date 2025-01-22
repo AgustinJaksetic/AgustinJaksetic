@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola👋, Bien venido a mi perfil de GitHub
 
-<!--
-**AgustinJaksetic/AgustinJaksetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8842F7&center=true&repeat=false&width=435&lines=Mi+nombre+es+Agustin+Jaksetic" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+ <p>- <i>Estudiando Ingeniería en Análisis de Sistemas Informáticos en la UBA.</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://tenor.com/oViIOsDw176.gif" width="45%" align="right" />
+
+## ⚡Sobre mi
+
+</br>
+
+- 🌱 Estudiando: Java
+- 😄 Pais: Argentina
+- 📫 Como contactarme: agus.jaksetic@gmail.com
+### Skills:
+
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,mysql,html,css,js,py,idea&perline=4" alt="My Skills" />
+  </a>
+</p>
+
+<div align="center"> 
+<a href="https://www.instagram.com/agusspium/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.linkedin.com/in/agustin-jaksetic-56907a24a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+### Aprendiendo:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,docker,ts,dotnet" />
+  </a>
+</p>

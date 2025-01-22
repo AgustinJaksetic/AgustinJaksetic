@@ -1,5 +1,3 @@
-# Hola👋, Bienvenido a mi perfil de GitHub
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8842F7&center=true&repeat=false&width=435&lines=Mi+nombre+es+Agustin+Jaksetic" alt="Typing SVG" /></a>
 <sup>
   <img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif"  width="18%" align="right" />

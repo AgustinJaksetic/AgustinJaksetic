@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6000F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&separator=%3C&lines=String+nombre+%3D+%22Agustin+Jaksetic%22;" alt="Typing SVG" /></a>
-<img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif"  width="18%" align="right" />
+<img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif"  width="18%" aling="left" />
 
 
  <p>- <i>Estudiando Ingeniería en Análisis de Sistemas Informáticos en la UBA.</i></p>

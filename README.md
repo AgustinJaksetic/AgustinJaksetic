@@ -11,7 +11,7 @@
 ### ⚡Sobre mi
 
 
-- 🌱 Edad: 18/11/2002
+- 🌱 Fecha de Nacimiento: 18/11/2002
 - 🐦‍⬛ Pais: Argentina
 - 📫 Como contactarme: agus.jaksetic@gmail.com
   

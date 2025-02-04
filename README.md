@@ -38,5 +38,3 @@
     <img src="https://skillicons.dev/icons?i=spring,react,docker,ts,dotnet" />
   </a>
 </p>
-
-en mi perfil de discord aweonada bonita preciosa

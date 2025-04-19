@@ -6,7 +6,7 @@
  <img src="https://media.tenor.com/q-wX4gUsJjgAAAAi/league-of-legends-viktor.gif" width="39%" align="right" />
 </div>
 
- <p>- <i>Estudiando Licenciatura en Ciencias de la Computación en la UBA.
+ <p>- <i>Estudiando
 
 ### ⚡Sobre mi
 
